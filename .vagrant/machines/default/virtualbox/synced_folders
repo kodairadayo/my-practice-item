@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/share/railsgirls":{"guestpath":"/var/share/railsgirls","hostpath":"/Users/koda-xiang/dev/railsgirls","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/koda-xiang/dev/railsgirls","disabled":false,"__vagrantfile":true}}}
